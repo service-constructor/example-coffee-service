@@ -1,0 +1,13 @@
+# Binary
+/coffee-service
+*.out
+
+# Keys — generated on first run; never commit private keys
+keys/
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
